@@ -56,7 +56,7 @@ $ git clone https://github.com/KUHackfest2022/Website
 You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of ARestro for Android and IOS.
 
 <div style="display:flex">
-<a style="padding:20px;background-color:white;border-radius:30px">
+<a href="https://drive.google.com/file/d/1i2EiY2Sqz4Hz6EwYqkMU18rPUHGSNCBd/view?usp=sharing" style="padding:20px;background-color:white;border-radius:30px">
 <img src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-0.png" width=100/>
 </a>
 <a style="padding:20px;background-color:white;border-radius:30px">
