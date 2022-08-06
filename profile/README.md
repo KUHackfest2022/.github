@@ -8,6 +8,11 @@
 
 <h4 align="center">A Higly Effective Paperless Menu App Made Using <a href="https://unity.com/">Unity</a>.</h4>
 
+<div align="center">
+<a href="https://kuhackfest2022.github.io/">
+Visit Our Website Here
+</a>
+</div>
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
