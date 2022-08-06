@@ -2,7 +2,7 @@
   <br>
   <a href="#"><img src="https://github.com/KUHackfest2022/Website/blob/main/assets/images/logo.png" alt="Markdownify" width="300"></a>
   <br>
-  <img src="https://github.com/KUHackfest2022/Website/blob/main/assets/images/logo.png" alt="Markdownify" width="100">
+  <img src="https://github.com/KUHackfest2022/Website/blob/main/assets/LOGO%20TXT%20WHITE.png" alt="Markdownify" width="200">
   <br>
 </h1>
 
