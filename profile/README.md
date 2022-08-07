@@ -38,6 +38,9 @@
   - Our app supports people who are differently abled. We keep in mind about people who have difficulty navigating everyday world.
 
 
+<img src="https://github.com/KUHackfest2022/Documents/blob/main/296626275_1216695055821443_6603454624414513447_n.png"/>
+
+
 ## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Unity](https://unity.com) installed on your computer. From your command line:
@@ -63,6 +66,12 @@ You can [download](https://github.com/amitmerchant1990/electron-markdownify/rele
 <img src="https://cdn3.iconfinder.com/data/icons/social-media-logos-glyph/2048/5315_-_Apple-512.png" width=80/>
 </a>
 </div>
+
+
+
+<img src="https://github.com/KUHackfest2022/Documents/blob/main/296609283_3228770604076926_5903824129919488592_n%20(1)%20(1).png"/>
+
+
 
 ## Credits
 
